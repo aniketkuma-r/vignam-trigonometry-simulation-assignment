@@ -1,4 +1,9 @@
-# demo video: https://drive.google.com/file/d/1rC5V3uaSGQLiErX_mPYcqxI9AGjNwRTV/view?usp=sharing
+# demo video part 1: 
+https://drive.google.com/file/d/1rC5V3uaSGQLiErX_mPYcqxI9AGjNwRTV/view?usp=sharing
+
+# demo video part 2:
+https://github.com/user-attachments/assets/164d5087-7ea6-4474-b72b-defbf3763c2a
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
